@@ -7,6 +7,7 @@
 ![图片加载失败啦](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8YmNbjvu6IE-qEgr-kq_ZaT1SFnIlO1Iq8KLXwjxOsw&s, 'title')
 
 ![][1]
+![1]
 
 ## img 变量
 
